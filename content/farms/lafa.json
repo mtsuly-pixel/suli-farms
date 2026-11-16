@@ -1,0 +1,21 @@
+{
+  "slug": "lafa",
+  "name": {
+    "ar": "مزرعة لافا",
+    "ku": "باخی لاڤا",
+    "en": "Lava Farm"
+  },
+  "order": 11,
+  "vip": false,
+  "area": "merkaban",
+  "price": 150000,
+  "videos": [
+    "/assets/videos/lafa/full1.mp4"
+  ],
+  "card_video": "",
+  "poster": "/assets/photos/lafa/poster.jpg",
+  "og_image": "/assets/photos/lafa/og.jpg",
+  "photos": [],
+  "card_photos": [],
+  "hidden": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "narjis",
+  "name": {
+    "ar": "مزرعة نرجس",
+    "ku": "باخی نێرگس",
+    "en": "Narjis Farm"
+  },
+  "order": 10,
+  "vip": false,
+  "area": "sitak",
+  "price": 125000,
+  "videos": [
+    "/assets/videos/narjis/full1.mp4"
+  ],
+  "card_video": "/assets/videos/narjis/card.mp4",
+  "poster": "/assets/photos/narjis/poster.jpg",
+  "og_image": "/assets/photos/narjis/og.jpg",
+  "photos": [],
+  "card_photos": [],
+  "hidden": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "seitak",
+  "name": {
+    "ar": "مزرعة سيتك",
+    "ku": "باخی سێتەک",
+    "en": "Sitak Farm"
+  },
+  "order": 3,
+  "vip": true,
+  "area": "sitak",
+  "price": 250000,
+  "videos": [
+    "/assets/videos/seitak/full1.mp4"
+  ],
+  "card_video": "/assets/videos/seitak/card.mp4",
+  "poster": "/assets/photos/seitak/poster.jpg",
+  "og_image": "/assets/photos/seitak/og.jpg",
+  "photos": [],
+  "card_photos": [],
+  "hidden": false
+}

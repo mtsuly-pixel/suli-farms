@@ -1,0 +1,45 @@
+{
+  "slug": "fadhel",
+  "name": {
+    "ar": "مزرعة فاضل",
+    "ku": "باخی فاضل",
+    "en": "Fadhel Farm"
+  },
+  "order": 6,
+  "vip": true,
+  "area": "sitak",
+  "price": 250000,
+  "videos": [
+    "/assets/videos/fadhel/full1.mp4"
+  ],
+  "card_video": "/assets/videos/fadhel/card.mp4",
+  "poster": "/assets/photos/fadhel/poster.jpg",
+  "og_image": "/assets/photos/fadhel/og.jpg",
+  "photos": [
+    "/assets/photos/fadhel/01.jpg",
+    "/assets/photos/fadhel/02.jpg",
+    "/assets/photos/fadhel/03.jpg",
+    "/assets/photos/fadhel/04.jpg",
+    "/assets/photos/fadhel/05.jpg",
+    "/assets/photos/fadhel/06.jpg",
+    "/assets/photos/fadhel/07.jpg",
+    "/assets/photos/fadhel/08.jpg",
+    "/assets/photos/fadhel/09.jpg",
+    "/assets/photos/fadhel/10.jpg",
+    "/assets/photos/fadhel/11.jpg",
+    "/assets/photos/fadhel/12.jpg",
+    "/assets/photos/fadhel/13.jpg",
+    "/assets/photos/fadhel/14.jpg",
+    "/assets/photos/fadhel/15.jpg",
+    "/assets/photos/fadhel/16.jpg",
+    "/assets/photos/fadhel/17.jpg",
+    "/assets/photos/fadhel/18.jpg",
+    "/assets/photos/fadhel/19.jpg"
+  ],
+  "card_photos": [
+    "/assets/photos/fadhel/01.jpg",
+    "/assets/photos/fadhel/05.jpg",
+    "/assets/photos/fadhel/12.jpg"
+  ],
+  "hidden": false
+}

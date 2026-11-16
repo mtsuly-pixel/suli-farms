@@ -1,0 +1,22 @@
+{
+  "slug": "swiss",
+  "name": {
+    "ar": "مزرعة سويسرا",
+    "ku": "باخی سویسرا",
+    "en": "Switzerland Farm"
+  },
+  "order": 2,
+  "vip": true,
+  "area": "merkaban",
+  "price": 225000,
+  "videos": [
+    "/assets/videos/swiss/full1.mp4",
+    "/assets/videos/swiss/full2.mp4"
+  ],
+  "card_video": "/assets/videos/swiss/card.mp4",
+  "poster": "/assets/photos/swiss/poster.jpg",
+  "og_image": "/assets/photos/swiss/og.jpg",
+  "photos": [],
+  "card_photos": [],
+  "hidden": false
+}

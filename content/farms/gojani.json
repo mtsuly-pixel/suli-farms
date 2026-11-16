@@ -1,0 +1,46 @@
+{
+  "slug": "gojani",
+  "name": {
+    "ar": "مزرعة جوجاني",
+    "ku": "باخی گۆجانی",
+    "en": "Gojani Farm"
+  },
+  "order": 4,
+  "vip": true,
+  "area": "sitak",
+  "price": 185000,
+  "videos": [
+    "/assets/videos/gojani/full1.mp4",
+    "/assets/videos/gojani/full2.mp4"
+  ],
+  "card_video": "",
+  "poster": "/assets/photos/gojani/poster.jpg",
+  "og_image": "/assets/photos/gojani/og.jpg",
+  "photos": [
+    "/assets/photos/gojani/01.jpg",
+    "/assets/photos/gojani/02.jpg",
+    "/assets/photos/gojani/03.jpg",
+    "/assets/photos/gojani/04.jpg",
+    "/assets/photos/gojani/05.jpg",
+    "/assets/photos/gojani/06.jpg",
+    "/assets/photos/gojani/07.jpg",
+    "/assets/photos/gojani/08.jpg",
+    "/assets/photos/gojani/09.jpg",
+    "/assets/photos/gojani/10.jpg",
+    "/assets/photos/gojani/11.jpg",
+    "/assets/photos/gojani/12.jpg",
+    "/assets/photos/gojani/13.jpg",
+    "/assets/photos/gojani/14.jpg",
+    "/assets/photos/gojani/15.jpg",
+    "/assets/photos/gojani/16.jpg",
+    "/assets/photos/gojani/17.jpg",
+    "/assets/photos/gojani/18.jpg",
+    "/assets/photos/gojani/19.jpg"
+  ],
+  "card_photos": [
+    "/assets/photos/gojani/01.jpg",
+    "/assets/photos/gojani/06.jpg",
+    "/assets/photos/gojani/14.jpg"
+  ],
+  "hidden": false
+}

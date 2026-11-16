@@ -1,0 +1,22 @@
+{
+  "slug": "khan",
+  "name": {
+    "ar": "مزرعة خان",
+    "ku": "باخی خان",
+    "en": "Khan Farm"
+  },
+  "order": 7,
+  "vip": false,
+  "area": "merkaban",
+  "price": 125000,
+  "videos": [
+    "/assets/videos/khan/full1.mp4",
+    "/assets/videos/khan/full2.mp4"
+  ],
+  "card_video": "/assets/videos/khan/card.mp4",
+  "poster": "/assets/photos/khan/poster.jpg",
+  "og_image": "/assets/photos/khan/og.jpg",
+  "photos": [],
+  "card_photos": [],
+  "hidden": false
+}

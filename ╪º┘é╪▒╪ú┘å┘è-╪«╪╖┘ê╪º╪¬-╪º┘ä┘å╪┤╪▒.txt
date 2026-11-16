@@ -1,0 +1,6 @@
+1) github.com -> New repository باسم suli-farms (Public) -> ارفع محتويات هذا المجلد (يفضل GitHub Desktop لأن الحجم 220MB). لا ترفع مجلد dist.
+2) dash.cloudflare.com -> Workers & Pages -> Create -> Pages -> Connect to Git -> اختر المستودع.
+   Build command: npm run build   |  Output directory: dist
+   Environment variable: SITE_URL = https://اسم-مشروعك.pages.dev
+3) ضع نفس الرابط في content/settings.json (site_url).
+4) للتعديل: app.pagescms.org -> سجل بحساب GitHub -> اختر المستودع.

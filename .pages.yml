@@ -1,0 +1,54 @@
+media:
+  - name: photos
+    label: الصور
+    input: assets/photos
+    output: /assets/photos
+    extensions: [jpg, jpeg, png, webp]
+  - name: videos
+    label: الفيديوهات
+    input: assets/videos
+    output: /assets/videos
+    extensions: [mp4]
+
+content:
+  - name: farms
+    label: المزارع
+    type: collection
+    path: content/farms
+    format: json
+    view:
+      fields: [name, price, order]
+      primary: name
+    fields:
+      - { name: slug, label: "الرمز (إنكليزي بدون مسافات)", type: string, required: true }
+      - name: name
+        label: الاسم
+        type: object
+        fields:
+          - { name: ar, label: عربي, type: string }
+          - { name: ku, label: كوردي, type: string }
+          - { name: en, label: English, type: string }
+      - { name: order, label: "الترتيب (1 يظهر أول)", type: number }
+      - { name: vip, label: VIP, type: boolean }
+      - name: area
+        label: المنطقة
+        type: select
+        options:
+          values:
+            - { value: merkaban, label: ميركبان }
+            - { value: sitak, label: سيتك }
+      - { name: price, label: "السعر لليلة (دينار)", type: number }
+      - { name: videos, label: الفيديوهات, type: image, list: true, options: { media: videos } }
+      - { name: card_video, label: "فيديو البطاقة القصير", type: image, options: { media: videos } }
+      - { name: poster, label: "صورة الغلاف", type: image, options: { media: photos } }
+      - { name: og_image, label: "الصورة المصغرة للواتساب", type: image, options: { media: photos } }
+      - { name: photos, label: الصور, type: image, list: true, options: { media: photos } }
+      - { name: hidden, label: "إخفاء المزرعة", type: boolean }
+  - name: settings
+    label: الإعدادات
+    type: file
+    path: content/settings.json
+    format: json
+    fields:
+      - { name: site_url, label: "رابط الموقع", type: string }
+      - { name: whatsapp, label: "رقم الواتساب", type: string }

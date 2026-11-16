@@ -1,0 +1,21 @@
+{
+  "slug": "haji",
+  "name": {
+    "ar": "مزرعة حاجي",
+    "ku": "باخی حاجی",
+    "en": "Haji Farm"
+  },
+  "order": 12,
+  "vip": false,
+  "area": "merkaban",
+  "price": 150000,
+  "videos": [
+    "/assets/videos/haji/full1.mp4"
+  ],
+  "card_video": "/assets/videos/haji/card.mp4",
+  "poster": "/assets/photos/haji/poster.jpg",
+  "og_image": "/assets/photos/haji/og.jpg",
+  "photos": [],
+  "card_photos": [],
+  "hidden": false
+}

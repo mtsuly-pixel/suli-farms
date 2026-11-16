@@ -1,0 +1,21 @@
+{
+  "slug": "zardasht",
+  "name": {
+    "ar": "مزرعة زردشت",
+    "ku": "باخی زەردەشت",
+    "en": "Zardasht Farm"
+  },
+  "order": 9,
+  "vip": false,
+  "area": "merkaban",
+  "price": 125000,
+  "videos": [
+    "/assets/videos/zardasht/full1.mp4"
+  ],
+  "card_video": "/assets/videos/zardasht/card.mp4",
+  "poster": "/assets/photos/zardasht/poster.jpg",
+  "og_image": "/assets/photos/zardasht/og.jpg",
+  "photos": [],
+  "card_photos": [],
+  "hidden": false
+}

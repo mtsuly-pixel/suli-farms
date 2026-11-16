@@ -1,0 +1,21 @@
+{
+  "slug": "azmar",
+  "name": {
+    "ar": "مزرعة ازمر",
+    "ku": "باخی ئازمەر",
+    "en": "Azmar Farm"
+  },
+  "order": 5,
+  "vip": true,
+  "area": "sitak",
+  "price": 150000,
+  "videos": [
+    "/assets/videos/azmar/full1.mp4"
+  ],
+  "card_video": "/assets/videos/azmar/card.mp4",
+  "poster": "/assets/photos/azmar/poster.jpg",
+  "og_image": "/assets/photos/azmar/og.jpg",
+  "photos": [],
+  "card_photos": [],
+  "hidden": false
+}

@@ -1,0 +1,25 @@
+{
+  "site_url": "",
+  "whatsapp": "9647706903668",
+  "owner": {
+    "ar": "محمد الطالباني",
+    "ku": "محەمەد تاڵەبانی",
+    "en": "Mohammed Al-Talabani",
+    "latin": "MOHAMMED AL-TALABANI"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/Sulyvila",
+    "instagram": "https://www.instagram.com/suli_chalets/",
+    "tiktok": "https://www.tiktok.com/@mohamad_suly95"
+  },
+  "areas": {
+    "merkaban": {
+      "google": "https://maps.app.goo.gl/s6rjkKYUb5AP3oWT9",
+      "waze": "https://waze.com/ul?ll=35.7851619,45.2645664&navigate=yes"
+    },
+    "sitak": {
+      "google": "https://maps.app.goo.gl/ahoLjPCMtvXZKX3y6",
+      "waze": "https://waze.com/ul?ll=35.597068,45.518783&navigate=yes"
+    }
+  }
+}

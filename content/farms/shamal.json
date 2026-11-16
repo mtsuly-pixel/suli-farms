@@ -1,0 +1,21 @@
+{
+  "slug": "shamal",
+  "name": {
+    "ar": "مزرعة شمال",
+    "ku": "باخی شەمال",
+    "en": "Shamal Farm"
+  },
+  "order": 8,
+  "vip": false,
+  "area": "merkaban",
+  "price": 125000,
+  "videos": [
+    "/assets/videos/shamal/full1.mp4"
+  ],
+  "card_video": "",
+  "poster": "/assets/photos/shamal/poster.jpg",
+  "og_image": "/assets/photos/shamal/og.jpg",
+  "photos": [],
+  "card_photos": [],
+  "hidden": false
+}
