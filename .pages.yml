@@ -16,9 +16,10 @@ content:
     type: collection
     path: content/farms
     format: json
+    filename: "{fields.slug}.json"
     view:
-      fields: [name, price, order]
-      primary: name
+      fields: [slug, price, order]
+      primary: slug
     fields:
       - { name: slug, label: "الرمز (إنكليزي بدون مسافات)", type: string, required: true }
       - name: name
