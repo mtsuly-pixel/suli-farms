@@ -78,3 +78,4 @@ body.farmp{background:#000}
 .info h1{font-size:24px;font-weight:800;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
 .info p{font-size:18px;font-weight:600;color:#F2C46B}
 .wabtn.big{min-height:52px;font-size:16px;padding:0 18px}
+html[lang=ckb] body,html[lang=ckb] button,html[lang=ckb] a{font-family:'Noto Sans Arabic','Noto Naskh Arabic',Tahoma,sans-serif}

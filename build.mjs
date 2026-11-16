@@ -90,7 +90,7 @@ ${SITE ? alts : ''}
 <meta name="theme-color" content="#101A20">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23E0A24E' d='M6 3h12l4 6-10 12L2 9z'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;800&family=Cinzel:wght@600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;800&family=Noto+Sans+Arabic:wght@400;600;800&family=Cinzel:wght@600;700&display=swap">
 <link rel="stylesheet" href="/assets/site.css?v=${V}">
 <script src="/assets/site.js?v=${V}" defer></script>
 </head>
