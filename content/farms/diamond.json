@@ -9,8 +9,6 @@
   "vip": true,
   "area": "merkaban",
   "price": 175000,
-  "videos": [],
-  "card_video": "",
   "poster": "/assets/photos/diamond/poster.jpg",
   "og_image": "/assets/photos/diamond/og.jpg",
   "photos": [
@@ -30,11 +28,6 @@
     "/assets/photos/diamond/14.jpg",
     "/assets/photos/diamond/15.jpg",
     "/assets/photos/diamond/16.jpg"
-  ],
-  "card_photos": [
-    "/assets/photos/diamond/11.jpg",
-    "/assets/photos/diamond/01.jpg",
-    "/assets/photos/diamond/07.jpg"
   ],
   "hidden": false
 }
